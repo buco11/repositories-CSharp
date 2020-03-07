@@ -1,0 +1,10 @@
+/Users/bucobuco/Projects/project2/bonusTask/bin/Debug/netcoreapp3.1/bonusTask.deps.json
+/Users/bucobuco/Projects/project2/bonusTask/bin/Debug/netcoreapp3.1/bonusTask.runtimeconfig.json
+/Users/bucobuco/Projects/project2/bonusTask/bin/Debug/netcoreapp3.1/bonusTask.runtimeconfig.dev.json
+/Users/bucobuco/Projects/project2/bonusTask/bin/Debug/netcoreapp3.1/bonusTask.dll
+/Users/bucobuco/Projects/project2/bonusTask/bin/Debug/netcoreapp3.1/bonusTask.pdb
+/Users/bucobuco/Projects/project2/bonusTask/obj/Debug/netcoreapp3.1/bonusTask.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/project2/bonusTask/obj/Debug/netcoreapp3.1/bonusTask.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/project2/bonusTask/obj/Debug/netcoreapp3.1/bonusTask.AssemblyInfo.cs
+/Users/bucobuco/Projects/project2/bonusTask/obj/Debug/netcoreapp3.1/bonusTask.dll
+/Users/bucobuco/Projects/project2/bonusTask/obj/Debug/netcoreapp3.1/bonusTask.pdb
