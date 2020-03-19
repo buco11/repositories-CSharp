@@ -1,0 +1,10 @@
+/Users/bucobuco/Projects/task1/obj/Debug/netcoreapp3.1/task1.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfo.cs
+/Users/bucobuco/Projects/task1/bin/Debug/netcoreapp3.1/task1.deps.json
+/Users/bucobuco/Projects/task1/bin/Debug/netcoreapp3.1/task1.runtimeconfig.json
+/Users/bucobuco/Projects/task1/bin/Debug/netcoreapp3.1/task1.runtimeconfig.dev.json
+/Users/bucobuco/Projects/task1/bin/Debug/netcoreapp3.1/task1.dll
+/Users/bucobuco/Projects/task1/bin/Debug/netcoreapp3.1/task1.pdb
+/Users/bucobuco/Projects/task1/obj/Debug/netcoreapp3.1/task1.dll
+/Users/bucobuco/Projects/task1/obj/Debug/netcoreapp3.1/task1.pdb

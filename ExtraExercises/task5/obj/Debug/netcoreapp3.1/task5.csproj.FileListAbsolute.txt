@@ -1,0 +1,9 @@
+/Users/bucobuco/Projects/task1/task5/bin/Debug/netcoreapp3.1/task5.deps.json
+/Users/bucobuco/Projects/task1/task5/bin/Debug/netcoreapp3.1/task5.runtimeconfig.json
+/Users/bucobuco/Projects/task1/task5/bin/Debug/netcoreapp3.1/task5.runtimeconfig.dev.json
+/Users/bucobuco/Projects/task1/task5/bin/Debug/netcoreapp3.1/task5.dll
+/Users/bucobuco/Projects/task1/task5/bin/Debug/netcoreapp3.1/task5.pdb
+/Users/bucobuco/Projects/task1/task5/obj/Debug/netcoreapp3.1/task5.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/task1/task5/obj/Debug/netcoreapp3.1/task5.AssemblyInfo.cs
+/Users/bucobuco/Projects/task1/task5/obj/Debug/netcoreapp3.1/task5.dll
+/Users/bucobuco/Projects/task1/task5/obj/Debug/netcoreapp3.1/task5.pdb

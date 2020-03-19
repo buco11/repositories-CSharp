@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/bucobuco/.dotnet/store/|arch|/|tfm|",
+      "/Users/bucobuco/.nuget/packages"
+    ]
+  }
+}
