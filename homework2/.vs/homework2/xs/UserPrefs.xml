@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1221743D-1589-4C0F-998A-2B7DE9586C35}|Default">
+  <MonoDevelop.Ide.ItemProperties.exercise3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exercise3/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="18" IsPinned="True" />
+      <File FileName="exercise2/Program.cs" />
+      <File FileName="exercise3/Program.cs" Line="18" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="homework2" expanded="True">
+            <Node name="exercise2" expanded="True" />
+            <Node name="exercise3" expanded="True" />
+            <Node name="homework2" expanded="True">
+              <Node name="exercise3" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exercise2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.homework2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

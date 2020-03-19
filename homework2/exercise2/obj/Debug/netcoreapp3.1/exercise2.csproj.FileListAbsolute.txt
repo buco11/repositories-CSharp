@@ -1,0 +1,10 @@
+/Users/bucobuco/Projects/homework2/exercise2/obj/Debug/netcoreapp3.1/exercise2.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/homework2/exercise2/obj/Debug/netcoreapp3.1/exercise2.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/homework2/exercise2/obj/Debug/netcoreapp3.1/exercise2.AssemblyInfo.cs
+/Users/bucobuco/Projects/homework2/exercise2/bin/Debug/netcoreapp3.1/exercise2.deps.json
+/Users/bucobuco/Projects/homework2/exercise2/bin/Debug/netcoreapp3.1/exercise2.runtimeconfig.json
+/Users/bucobuco/Projects/homework2/exercise2/bin/Debug/netcoreapp3.1/exercise2.runtimeconfig.dev.json
+/Users/bucobuco/Projects/homework2/exercise2/bin/Debug/netcoreapp3.1/exercise2.dll
+/Users/bucobuco/Projects/homework2/exercise2/bin/Debug/netcoreapp3.1/exercise2.pdb
+/Users/bucobuco/Projects/homework2/exercise2/obj/Debug/netcoreapp3.1/exercise2.dll
+/Users/bucobuco/Projects/homework2/exercise2/obj/Debug/netcoreapp3.1/exercise2.pdb

@@ -1,0 +1,10 @@
+/Users/bucobuco/Projects/exerciseOne/exerciseLoops/bin/Debug/netcoreapp3.1/exerciseLoops.deps.json
+/Users/bucobuco/Projects/exerciseOne/exerciseLoops/bin/Debug/netcoreapp3.1/exerciseLoops.runtimeconfig.json
+/Users/bucobuco/Projects/exerciseOne/exerciseLoops/bin/Debug/netcoreapp3.1/exerciseLoops.runtimeconfig.dev.json
+/Users/bucobuco/Projects/exerciseOne/exerciseLoops/bin/Debug/netcoreapp3.1/exerciseLoops.dll
+/Users/bucobuco/Projects/exerciseOne/exerciseLoops/bin/Debug/netcoreapp3.1/exerciseLoops.pdb
+/Users/bucobuco/Projects/exerciseOne/exerciseLoops/obj/Debug/netcoreapp3.1/exerciseLoops.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/exerciseOne/exerciseLoops/obj/Debug/netcoreapp3.1/exerciseLoops.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/exerciseOne/exerciseLoops/obj/Debug/netcoreapp3.1/exerciseLoops.AssemblyInfo.cs
+/Users/bucobuco/Projects/exerciseOne/exerciseLoops/obj/Debug/netcoreapp3.1/exerciseLoops.dll
+/Users/bucobuco/Projects/exerciseOne/exerciseLoops/obj/Debug/netcoreapp3.1/exerciseLoops.pdb

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{DDC3C48D-1A60-4C2B-85CB-F8EEE1156F0B}|Default">
+  <MonoDevelop.Ide.ItemProperties.exerciseOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.exerciseArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.exerciseLoops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.exercise3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exercise3/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="50" Column="5" />
+      <File FileName="exerciseLoops/Program.cs" />
+      <File FileName="exercise3/Program.cs" Line="34" Column="32" />
+      <File FileName="exerciseArrays/Program.cs" Line="31" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exerciseOne" expanded="True">
+            <Node name="exercise3" expanded="True" />
+            <Node name="exerciseArrays" expanded="True" />
+            <Node name="exerciseLoops" expanded="True" />
+            <Node name="exerciseOne" expanded="True">
+              <Node name="exercise3" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+              <Node name="exerciseArrays" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

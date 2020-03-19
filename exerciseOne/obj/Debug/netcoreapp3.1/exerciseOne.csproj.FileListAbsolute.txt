@@ -1,0 +1,10 @@
+/Users/bucobuco/Projects/exerciseOne/bin/Debug/netcoreapp3.1/exerciseOne.deps.json
+/Users/bucobuco/Projects/exerciseOne/bin/Debug/netcoreapp3.1/exerciseOne.runtimeconfig.json
+/Users/bucobuco/Projects/exerciseOne/bin/Debug/netcoreapp3.1/exerciseOne.runtimeconfig.dev.json
+/Users/bucobuco/Projects/exerciseOne/bin/Debug/netcoreapp3.1/exerciseOne.dll
+/Users/bucobuco/Projects/exerciseOne/bin/Debug/netcoreapp3.1/exerciseOne.pdb
+/Users/bucobuco/Projects/exerciseOne/obj/Debug/netcoreapp3.1/exerciseOne.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/exerciseOne/obj/Debug/netcoreapp3.1/exerciseOne.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/exerciseOne/obj/Debug/netcoreapp3.1/exerciseOne.AssemblyInfo.cs
+/Users/bucobuco/Projects/exerciseOne/obj/Debug/netcoreapp3.1/exerciseOne.dll
+/Users/bucobuco/Projects/exerciseOne/obj/Debug/netcoreapp3.1/exerciseOne.pdb
