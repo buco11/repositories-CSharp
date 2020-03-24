@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FFEFBE19-9D4C-4411-B3B4-F6F1E517C7EC}|Default">
+  <MonoDevelop.Ide.ItemProperties.login-register-app PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="login-register-app/Program.cs">
+    <Files>
+      <File FileName="login-register-app/Program.cs" Line="20" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="login-register-app" expanded="True">
+            <Node name="login-register-app" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

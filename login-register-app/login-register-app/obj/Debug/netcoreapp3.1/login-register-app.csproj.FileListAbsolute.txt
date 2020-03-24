@@ -1,0 +1,10 @@
+/Users/bucobuco/Projects/login-register-app/login-register-app/bin/Debug/netcoreapp3.1/login-register-app.deps.json
+/Users/bucobuco/Projects/login-register-app/login-register-app/bin/Debug/netcoreapp3.1/login-register-app.runtimeconfig.json
+/Users/bucobuco/Projects/login-register-app/login-register-app/bin/Debug/netcoreapp3.1/login-register-app.runtimeconfig.dev.json
+/Users/bucobuco/Projects/login-register-app/login-register-app/bin/Debug/netcoreapp3.1/login-register-app.dll
+/Users/bucobuco/Projects/login-register-app/login-register-app/bin/Debug/netcoreapp3.1/login-register-app.pdb
+/Users/bucobuco/Projects/login-register-app/login-register-app/obj/Debug/netcoreapp3.1/login-register-app.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/login-register-app/login-register-app/obj/Debug/netcoreapp3.1/login-register-app.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/login-register-app/login-register-app/obj/Debug/netcoreapp3.1/login-register-app.AssemblyInfo.cs
+/Users/bucobuco/Projects/login-register-app/login-register-app/obj/Debug/netcoreapp3.1/login-register-app.dll
+/Users/bucobuco/Projects/login-register-app/login-register-app/obj/Debug/netcoreapp3.1/login-register-app.pdb
