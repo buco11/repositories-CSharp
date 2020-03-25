@@ -8,3 +8,5 @@
 /Users/bucobuco/Projects/realCalculatorApp/calculator/obj/Debug/netcoreapp3.1/calculator.AssemblyInfo.cs
 /Users/bucobuco/Projects/realCalculatorApp/calculator/obj/Debug/netcoreapp3.1/calculator.dll
 /Users/bucobuco/Projects/realCalculatorApp/calculator/obj/Debug/netcoreapp3.1/calculator.pdb
+/Users/bucobuco/Projects/realCalculatorApp/calculator/obj/Debug/netcoreapp3.1/calculator.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/realCalculatorApp/calculator/obj/Debug/netcoreapp3.1/calculator.genruntimeconfig.cache
