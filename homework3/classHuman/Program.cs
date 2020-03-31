@@ -2,19 +2,20 @@
 
 namespace classHuman
 {
+    public class human
+    {
+        public string FirstName;
+        public string LastName;
+        public string Age;
+
+        public void GetPersonStats()
+        {
+            Console.WriteLine($"Hello, my name is {FirstName} {LastName} and I am {Age} years old");
+        }
+    }
     class Program
     {
-        public class human
-        {
-            public string FirstName;
-            public string LastName;
-            public string Age;
-
-            public void GetPersonStats()
-            {
-                Console.WriteLine($"Hello, my name is {FirstName} {LastName} and I am {Age} years old");
-            }
-        }
+  
         static void Main(string[] args)
         {
             //Task 8

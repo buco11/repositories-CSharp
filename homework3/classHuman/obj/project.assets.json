@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bucobuco/Projects/homework3/classHuman/classHuman.csproj",
+      "projectUniqueName": "/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/classHuman.csproj",
       "projectName": "classHuman",
-      "projectPath": "/Users/bucobuco/Projects/homework3/classHuman/classHuman.csproj",
+      "projectPath": "/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/classHuman.csproj",
       "packagesPath": "/Users/bucobuco/.nuget/packages/",
-      "outputPath": "/Users/bucobuco/Projects/homework3/classHuman/obj/",
+      "outputPath": "/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bucobuco/.config/NuGet/NuGet.Config"

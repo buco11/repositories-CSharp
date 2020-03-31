@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bucobuco/Projects/homework3/classDog/classDog.csproj": {}
+    "/Users/bucobuco/Projects/repositories-CSharp/homework3/classDog/classDog.csproj": {}
   },
   "projects": {
-    "/Users/bucobuco/Projects/homework3/classDog/classDog.csproj": {
+    "/Users/bucobuco/Projects/repositories-CSharp/homework3/classDog/classDog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bucobuco/Projects/homework3/classDog/classDog.csproj",
+        "projectUniqueName": "/Users/bucobuco/Projects/repositories-CSharp/homework3/classDog/classDog.csproj",
         "projectName": "classDog",
-        "projectPath": "/Users/bucobuco/Projects/homework3/classDog/classDog.csproj",
+        "projectPath": "/Users/bucobuco/Projects/repositories-CSharp/homework3/classDog/classDog.csproj",
         "packagesPath": "/Users/bucobuco/.nuget/packages/",
-        "outputPath": "/Users/bucobuco/Projects/homework3/classDog/obj/",
+        "outputPath": "/Users/bucobuco/Projects/repositories-CSharp/homework3/classDog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bucobuco/.config/NuGet/NuGet.Config"

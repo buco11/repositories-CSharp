@@ -10,3 +10,15 @@
 /Users/bucobuco/Projects/homework3/classHuman/obj/Debug/netcoreapp3.1/classHuman.dll
 /Users/bucobuco/Projects/homework3/classHuman/obj/Debug/netcoreapp3.1/classHuman.pdb
 /Users/bucobuco/Projects/homework3/classHuman/obj/Debug/netcoreapp3.1/classHuman.genruntimeconfig.cache
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/bin/Debug/netcoreapp3.1/classHuman.deps.json
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/bin/Debug/netcoreapp3.1/classHuman.runtimeconfig.json
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/bin/Debug/netcoreapp3.1/classHuman.runtimeconfig.dev.json
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/bin/Debug/netcoreapp3.1/classHuman.dll
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/bin/Debug/netcoreapp3.1/classHuman.pdb
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/obj/Debug/netcoreapp3.1/classHuman.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/obj/Debug/netcoreapp3.1/classHuman.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/obj/Debug/netcoreapp3.1/classHuman.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/obj/Debug/netcoreapp3.1/classHuman.AssemblyInfo.cs
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/obj/Debug/netcoreapp3.1/classHuman.dll
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/obj/Debug/netcoreapp3.1/classHuman.pdb
+/Users/bucobuco/Projects/repositories-CSharp/homework3/classHuman/obj/Debug/netcoreapp3.1/classHuman.genruntimeconfig.cache
