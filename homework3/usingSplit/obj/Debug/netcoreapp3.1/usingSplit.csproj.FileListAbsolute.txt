@@ -1,0 +1,12 @@
+/Users/bucobuco/Projects/homework3/usingSplit/bin/Debug/netcoreapp3.1/usingSplit.deps.json
+/Users/bucobuco/Projects/homework3/usingSplit/bin/Debug/netcoreapp3.1/usingSplit.runtimeconfig.json
+/Users/bucobuco/Projects/homework3/usingSplit/bin/Debug/netcoreapp3.1/usingSplit.runtimeconfig.dev.json
+/Users/bucobuco/Projects/homework3/usingSplit/bin/Debug/netcoreapp3.1/usingSplit.dll
+/Users/bucobuco/Projects/homework3/usingSplit/bin/Debug/netcoreapp3.1/usingSplit.pdb
+/Users/bucobuco/Projects/homework3/usingSplit/obj/Debug/netcoreapp3.1/usingSplit.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/homework3/usingSplit/obj/Debug/netcoreapp3.1/usingSplit.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/homework3/usingSplit/obj/Debug/netcoreapp3.1/usingSplit.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/homework3/usingSplit/obj/Debug/netcoreapp3.1/usingSplit.AssemblyInfo.cs
+/Users/bucobuco/Projects/homework3/usingSplit/obj/Debug/netcoreapp3.1/usingSplit.dll
+/Users/bucobuco/Projects/homework3/usingSplit/obj/Debug/netcoreapp3.1/usingSplit.pdb
+/Users/bucobuco/Projects/homework3/usingSplit/obj/Debug/netcoreapp3.1/usingSplit.genruntimeconfig.cache

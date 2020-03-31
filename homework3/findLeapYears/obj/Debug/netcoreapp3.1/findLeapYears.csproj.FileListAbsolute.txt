@@ -1,0 +1,11 @@
+/Users/bucobuco/Projects/homework3/findLeapYears/bin/Debug/netcoreapp3.1/findLeapYears.deps.json
+/Users/bucobuco/Projects/homework3/findLeapYears/bin/Debug/netcoreapp3.1/findLeapYears.runtimeconfig.json
+/Users/bucobuco/Projects/homework3/findLeapYears/bin/Debug/netcoreapp3.1/findLeapYears.runtimeconfig.dev.json
+/Users/bucobuco/Projects/homework3/findLeapYears/bin/Debug/netcoreapp3.1/findLeapYears.dll
+/Users/bucobuco/Projects/homework3/findLeapYears/bin/Debug/netcoreapp3.1/findLeapYears.pdb
+/Users/bucobuco/Projects/homework3/findLeapYears/obj/Debug/netcoreapp3.1/findLeapYears.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/homework3/findLeapYears/obj/Debug/netcoreapp3.1/findLeapYears.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/homework3/findLeapYears/obj/Debug/netcoreapp3.1/findLeapYears.AssemblyInfo.cs
+/Users/bucobuco/Projects/homework3/findLeapYears/obj/Debug/netcoreapp3.1/findLeapYears.dll
+/Users/bucobuco/Projects/homework3/findLeapYears/obj/Debug/netcoreapp3.1/findLeapYears.pdb
+/Users/bucobuco/Projects/homework3/findLeapYears/obj/Debug/netcoreapp3.1/findLeapYears.genruntimeconfig.cache

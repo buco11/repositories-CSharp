@@ -1,0 +1,11 @@
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/bin/Debug/netcoreapp3.1/maximumOccuringCharacter.deps.json
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/bin/Debug/netcoreapp3.1/maximumOccuringCharacter.runtimeconfig.json
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/bin/Debug/netcoreapp3.1/maximumOccuringCharacter.runtimeconfig.dev.json
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/bin/Debug/netcoreapp3.1/maximumOccuringCharacter.dll
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/bin/Debug/netcoreapp3.1/maximumOccuringCharacter.pdb
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/obj/Debug/netcoreapp3.1/maximumOccuringCharacter.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/obj/Debug/netcoreapp3.1/maximumOccuringCharacter.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/obj/Debug/netcoreapp3.1/maximumOccuringCharacter.AssemblyInfo.cs
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/obj/Debug/netcoreapp3.1/maximumOccuringCharacter.dll
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/obj/Debug/netcoreapp3.1/maximumOccuringCharacter.pdb
+/Users/bucobuco/Projects/homework3/maximumOccuringCharacter/obj/Debug/netcoreapp3.1/maximumOccuringCharacter.genruntimeconfig.cache

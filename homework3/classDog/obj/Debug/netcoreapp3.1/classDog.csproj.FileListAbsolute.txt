@@ -1,0 +1,12 @@
+/Users/bucobuco/Projects/homework3/classDog/bin/Debug/netcoreapp3.1/classDog.deps.json
+/Users/bucobuco/Projects/homework3/classDog/bin/Debug/netcoreapp3.1/classDog.runtimeconfig.json
+/Users/bucobuco/Projects/homework3/classDog/bin/Debug/netcoreapp3.1/classDog.runtimeconfig.dev.json
+/Users/bucobuco/Projects/homework3/classDog/bin/Debug/netcoreapp3.1/classDog.dll
+/Users/bucobuco/Projects/homework3/classDog/bin/Debug/netcoreapp3.1/classDog.pdb
+/Users/bucobuco/Projects/homework3/classDog/obj/Debug/netcoreapp3.1/classDog.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/homework3/classDog/obj/Debug/netcoreapp3.1/classDog.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/homework3/classDog/obj/Debug/netcoreapp3.1/classDog.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/homework3/classDog/obj/Debug/netcoreapp3.1/classDog.AssemblyInfo.cs
+/Users/bucobuco/Projects/homework3/classDog/obj/Debug/netcoreapp3.1/classDog.dll
+/Users/bucobuco/Projects/homework3/classDog/obj/Debug/netcoreapp3.1/classDog.pdb
+/Users/bucobuco/Projects/homework3/classDog/obj/Debug/netcoreapp3.1/classDog.genruntimeconfig.cache

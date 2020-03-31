@@ -1,0 +1,49 @@
+﻿using System;
+
+namespace maximumOccuringCharacter
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Task 3
+            //* Find maximum occurring character in a string* Example: "We want this situation with covid-19 to ends!"
+            //* Expected Output: The highest frequency of character 't' appears number of times : 6
+
+            string str;
+            int[] ch_fre = new int[255];
+            int i = 0, max, l;
+            int ascii;
+
+            Console.WriteLine("Input some string");
+            str = Console.ReadLine();
+            l = str.Length;
+
+            for (i = 0; i < 255; i++)  
+            {
+                ch_fre[i] = 0;
+            }
+            
+            i = 0;
+            while (i < l)
+            {
+                ascii = (int)str[i];
+                ch_fre[ascii] += 1;
+
+                i++;
+            }
+           
+            max = 0;
+            for (i = 0; i < 255; i++)
+            {
+                if (i != 32)
+                {
+                    if (ch_fre[i] > ch_fre[max])
+                        max = i;
+                }
+            }
+            Console.Write("The Highest frequency of character '{0}' is appearing for number of times : {1} \n\n", (char)max, ch_fre[max]);
+     
+        }
+    }
+}

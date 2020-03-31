@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{4E4D7AA5-1700-439B-9834-F45B91FAE562}|Default">
+  <MonoDevelop.Ide.ItemProperties.maximumOccuringCharacter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.usingSplit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.classDog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="maximumOccuringCharacter/Program.cs">
+    <Files>
+      <File FileName="maximumOccuringCharacter/Program.cs" Line="23" Column="14" />
+      <File FileName="usingSplit/Program.cs" />
+      <File FileName="displayDayProperties/Program.cs" />
+      <File FileName="findLeapYears/Program.cs" Line="24" Column="52" />
+      <File FileName="classDog/Program.cs" Line="55" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="homework3" expanded="True">
+            <Node name="classDog" expanded="True" />
+            <Node name="classHuman" expanded="True" />
+            <Node name="displayDayProperties" expanded="True" />
+            <Node name="findLeapYears" expanded="True" />
+            <Node name="maximumOccuringCharacter" expanded="True" selected="True" />
+            <Node name="reverseString" expanded="True" />
+            <Node name="usingSplit" expanded="True" />
+            <Node name="wordCounter" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.wordCounter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.classHuman PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.displayDayProperties PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.findLeapYears PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.reverseString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

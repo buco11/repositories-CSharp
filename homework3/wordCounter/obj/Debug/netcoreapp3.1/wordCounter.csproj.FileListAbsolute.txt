@@ -1,0 +1,12 @@
+/Users/bucobuco/Projects/homework3/wordCounter/bin/Debug/netcoreapp3.1/wordCounter.deps.json
+/Users/bucobuco/Projects/homework3/wordCounter/bin/Debug/netcoreapp3.1/wordCounter.runtimeconfig.json
+/Users/bucobuco/Projects/homework3/wordCounter/bin/Debug/netcoreapp3.1/wordCounter.runtimeconfig.dev.json
+/Users/bucobuco/Projects/homework3/wordCounter/bin/Debug/netcoreapp3.1/wordCounter.dll
+/Users/bucobuco/Projects/homework3/wordCounter/bin/Debug/netcoreapp3.1/wordCounter.pdb
+/Users/bucobuco/Projects/homework3/wordCounter/obj/Debug/netcoreapp3.1/wordCounter.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/homework3/wordCounter/obj/Debug/netcoreapp3.1/wordCounter.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/homework3/wordCounter/obj/Debug/netcoreapp3.1/wordCounter.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/homework3/wordCounter/obj/Debug/netcoreapp3.1/wordCounter.AssemblyInfo.cs
+/Users/bucobuco/Projects/homework3/wordCounter/obj/Debug/netcoreapp3.1/wordCounter.dll
+/Users/bucobuco/Projects/homework3/wordCounter/obj/Debug/netcoreapp3.1/wordCounter.pdb
+/Users/bucobuco/Projects/homework3/wordCounter/obj/Debug/netcoreapp3.1/wordCounter.genruntimeconfig.cache

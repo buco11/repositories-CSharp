@@ -1,0 +1,12 @@
+/Users/bucobuco/Projects/homework3/reverseString/bin/Debug/netcoreapp3.1/reverseString.deps.json
+/Users/bucobuco/Projects/homework3/reverseString/bin/Debug/netcoreapp3.1/reverseString.runtimeconfig.json
+/Users/bucobuco/Projects/homework3/reverseString/bin/Debug/netcoreapp3.1/reverseString.runtimeconfig.dev.json
+/Users/bucobuco/Projects/homework3/reverseString/bin/Debug/netcoreapp3.1/reverseString.dll
+/Users/bucobuco/Projects/homework3/reverseString/bin/Debug/netcoreapp3.1/reverseString.pdb
+/Users/bucobuco/Projects/homework3/reverseString/obj/Debug/netcoreapp3.1/reverseString.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/homework3/reverseString/obj/Debug/netcoreapp3.1/reverseString.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/homework3/reverseString/obj/Debug/netcoreapp3.1/reverseString.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/homework3/reverseString/obj/Debug/netcoreapp3.1/reverseString.AssemblyInfo.cs
+/Users/bucobuco/Projects/homework3/reverseString/obj/Debug/netcoreapp3.1/reverseString.dll
+/Users/bucobuco/Projects/homework3/reverseString/obj/Debug/netcoreapp3.1/reverseString.pdb
+/Users/bucobuco/Projects/homework3/reverseString/obj/Debug/netcoreapp3.1/reverseString.genruntimeconfig.cache

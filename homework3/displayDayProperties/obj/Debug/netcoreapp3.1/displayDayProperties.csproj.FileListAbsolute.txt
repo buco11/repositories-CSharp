@@ -1,0 +1,11 @@
+/Users/bucobuco/Projects/homework3/displayDayProperties/bin/Debug/netcoreapp3.1/displayDayProperties.deps.json
+/Users/bucobuco/Projects/homework3/displayDayProperties/bin/Debug/netcoreapp3.1/displayDayProperties.runtimeconfig.json
+/Users/bucobuco/Projects/homework3/displayDayProperties/bin/Debug/netcoreapp3.1/displayDayProperties.runtimeconfig.dev.json
+/Users/bucobuco/Projects/homework3/displayDayProperties/bin/Debug/netcoreapp3.1/displayDayProperties.dll
+/Users/bucobuco/Projects/homework3/displayDayProperties/bin/Debug/netcoreapp3.1/displayDayProperties.pdb
+/Users/bucobuco/Projects/homework3/displayDayProperties/obj/Debug/netcoreapp3.1/displayDayProperties.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/homework3/displayDayProperties/obj/Debug/netcoreapp3.1/displayDayProperties.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/homework3/displayDayProperties/obj/Debug/netcoreapp3.1/displayDayProperties.AssemblyInfo.cs
+/Users/bucobuco/Projects/homework3/displayDayProperties/obj/Debug/netcoreapp3.1/displayDayProperties.dll
+/Users/bucobuco/Projects/homework3/displayDayProperties/obj/Debug/netcoreapp3.1/displayDayProperties.pdb
+/Users/bucobuco/Projects/homework3/displayDayProperties/obj/Debug/netcoreapp3.1/displayDayProperties.genruntimeconfig.cache
