@@ -1,0 +1,12 @@
+/Users/bucobuco/Projects/homework4/task2/bin/Debug/netcoreapp3.1/task2.deps.json
+/Users/bucobuco/Projects/homework4/task2/bin/Debug/netcoreapp3.1/task2.runtimeconfig.json
+/Users/bucobuco/Projects/homework4/task2/bin/Debug/netcoreapp3.1/task2.runtimeconfig.dev.json
+/Users/bucobuco/Projects/homework4/task2/bin/Debug/netcoreapp3.1/task2.dll
+/Users/bucobuco/Projects/homework4/task2/bin/Debug/netcoreapp3.1/task2.pdb
+/Users/bucobuco/Projects/homework4/task2/obj/Debug/netcoreapp3.1/task2.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/homework4/task2/obj/Debug/netcoreapp3.1/task2.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/homework4/task2/obj/Debug/netcoreapp3.1/task2.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/homework4/task2/obj/Debug/netcoreapp3.1/task2.AssemblyInfo.cs
+/Users/bucobuco/Projects/homework4/task2/obj/Debug/netcoreapp3.1/task2.dll
+/Users/bucobuco/Projects/homework4/task2/obj/Debug/netcoreapp3.1/task2.pdb
+/Users/bucobuco/Projects/homework4/task2/obj/Debug/netcoreapp3.1/task2.genruntimeconfig.cache
