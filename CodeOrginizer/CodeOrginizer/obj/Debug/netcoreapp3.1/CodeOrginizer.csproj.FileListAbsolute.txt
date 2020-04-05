@@ -1,0 +1,12 @@
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/obj/Debug/netcoreapp3.1/CodeOrginizer.csprojAssemblyReference.cache
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/obj/Debug/netcoreapp3.1/CodeOrginizer.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/obj/Debug/netcoreapp3.1/CodeOrginizer.AssemblyInfoInputs.cache
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/obj/Debug/netcoreapp3.1/CodeOrginizer.AssemblyInfo.cs
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/bin/Debug/netcoreapp3.1/CodeOrginizer.deps.json
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/bin/Debug/netcoreapp3.1/CodeOrginizer.runtimeconfig.json
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/bin/Debug/netcoreapp3.1/CodeOrginizer.runtimeconfig.dev.json
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/bin/Debug/netcoreapp3.1/CodeOrginizer.dll
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/bin/Debug/netcoreapp3.1/CodeOrginizer.pdb
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/obj/Debug/netcoreapp3.1/CodeOrginizer.dll
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/obj/Debug/netcoreapp3.1/CodeOrginizer.pdb
+/Users/bucobuco/Downloads/skwd8-05-oopcsharp-master/g1/Class07Homework/CodeOrginizer/CodeOrginizer/obj/Debug/netcoreapp3.1/CodeOrginizer.genruntimeconfig.cache

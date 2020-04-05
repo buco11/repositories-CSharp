@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9F34FB6A-5D17-425B-A95C-FEF5FAAB5822}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeOrginizer/Program.cs">
+    <Files>
+      <File FileName="CodeOrginizer/Program.cs" Line="55" Column="1" />
+      <File FileName="CodeOrginizer/Entities/job.cs" Line="10" Column="16" />
+      <File FileName="CodeOrginizer/Entities/Adress.cs" />
+      <File FileName="CodeOrginizer/Enums/Role.cs" Line="9" Column="7" />
+      <File FileName="CodeOrginizer/Helpers/PersonHelper.cs" Line="10" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeOrginizer" expanded="True">
+            <Node name="CodeOrginizer" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Enums" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CodeOrginizer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
