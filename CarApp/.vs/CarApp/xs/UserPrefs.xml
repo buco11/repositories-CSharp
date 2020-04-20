@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{35451A6D-6232-4A36-AA40-DCF4B66F93B2}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="CarApp/Program.cs">
     <Files>
-      <File FileName="CarApp/Program.cs" Line="37" Column="28" />
-      <File FileName="CarApp/Entities/Car.cs" Line="45" Column="44" />
-      <File FileName="CarApp/Entities/ElectricCar.cs" Line="56" Column="10" />
-      <File FileName="CarApp/Entities/FuelCar.cs" Line="44" Column="138" />
+      <File FileName="CarApp/Program.cs" Line="26" Column="28" />
+      <File FileName="CarApp/Entities/Car.cs" />
+      <File FileName="CarApp/Entities/ElectricCar.cs" />
+      <File FileName="CarApp/Entities/FuelCar.cs" Line="44" Column="77" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

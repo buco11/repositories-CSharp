@@ -41,7 +41,7 @@ namespace CarApp.Entities
             else
             {
                 CurrentFuel = CurrentFuel + fuel; ;
-                Console.WriteLine($"You have charged {Convert.ToInt32(fuel)} %, now you have {Convert.ToInt32(CurrentFuel)} l of {Engine}");
+                Console.WriteLine($"You have added {Convert.ToInt32(fuel)} l, now you have {Convert.ToInt32(CurrentFuel)} l of {Engine}");
             }
         }
 
