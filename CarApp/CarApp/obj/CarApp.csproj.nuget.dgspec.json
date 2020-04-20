@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bucobuco/Projects/CarApp/CarApp/CarApp.csproj": {}
+  },
+  "projects": {
+    "/Users/bucobuco/Projects/CarApp/CarApp/CarApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bucobuco/Projects/CarApp/CarApp/CarApp.csproj",
+        "projectName": "CarApp",
+        "projectPath": "/Users/bucobuco/Projects/CarApp/CarApp/CarApp.csproj",
+        "packagesPath": "/Users/bucobuco/.nuget/packages/",
+        "outputPath": "/Users/bucobuco/Projects/CarApp/CarApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bucobuco/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

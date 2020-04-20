@@ -1,0 +1,12 @@
+/Users/bucobuco/Projects/CarApp/CarApp/obj/Debug/netcoreapp2.2/CarApp.csprojAssemblyReference.cache
+/Users/bucobuco/Projects/CarApp/CarApp/obj/Debug/netcoreapp2.2/CarApp.csproj.CoreCompileInputs.cache
+/Users/bucobuco/Projects/CarApp/CarApp/obj/Debug/netcoreapp2.2/CarApp.AssemblyInfoInputs.cache
+/Users/bucobuco/Projects/CarApp/CarApp/obj/Debug/netcoreapp2.2/CarApp.AssemblyInfo.cs
+/Users/bucobuco/Projects/CarApp/CarApp/bin/Debug/netcoreapp2.2/CarApp.deps.json
+/Users/bucobuco/Projects/CarApp/CarApp/bin/Debug/netcoreapp2.2/CarApp.runtimeconfig.json
+/Users/bucobuco/Projects/CarApp/CarApp/bin/Debug/netcoreapp2.2/CarApp.runtimeconfig.dev.json
+/Users/bucobuco/Projects/CarApp/CarApp/bin/Debug/netcoreapp2.2/CarApp.dll
+/Users/bucobuco/Projects/CarApp/CarApp/bin/Debug/netcoreapp2.2/CarApp.pdb
+/Users/bucobuco/Projects/CarApp/CarApp/obj/Debug/netcoreapp2.2/CarApp.dll
+/Users/bucobuco/Projects/CarApp/CarApp/obj/Debug/netcoreapp2.2/CarApp.pdb
+/Users/bucobuco/Projects/CarApp/CarApp/obj/Debug/netcoreapp2.2/CarApp.genruntimeconfig.cache

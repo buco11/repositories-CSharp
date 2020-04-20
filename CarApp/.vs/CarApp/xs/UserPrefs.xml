@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{35451A6D-6232-4A36-AA40-DCF4B66F93B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarApp/Program.cs">
+    <Files>
+      <File FileName="CarApp/Program.cs" Line="37" Column="28" />
+      <File FileName="CarApp/Entities/Car.cs" Line="45" Column="44" />
+      <File FileName="CarApp/Entities/ElectricCar.cs" Line="56" Column="10" />
+      <File FileName="CarApp/Entities/FuelCar.cs" Line="44" Column="138" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarApp" expanded="True">
+            <Node name="CarApp" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Enums" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CarApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
